@@ -1,14 +1,18 @@
 ---
 layout: page
-title: About
+title: 이게 나야 !
 permalink: /about/
 ---
 
-Some information about you!
+날 알고 싶니 ?
 
-### More Information
+### 김채완의 신상!
 
-A place to include any other types of information that you'd like to include about yourself.
+생년월일 : 960507
+성별 : 남자
+취미 : 운동
+직업 : 학생
+ 더 알고 싶으면 연락하세요.
 
 ### Contact me
 
